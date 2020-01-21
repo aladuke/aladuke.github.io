@@ -13,6 +13,7 @@ Welcome to my personal website. I am a first-year physics graduate student at Ca
 What I'm taking this semester
 ======
 PHYS 33-765 Statistical Mechanics with Dr. Markus Deserno
+
 PHYS 33-777 Intro to Astrophysics with Dr. Duncan Campbell
 
 
