@@ -5,15 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+My research focuses on how the nuclear force shapes the interactions of quarks to give us the particles we all know and love. Currently, I am doing research into hybrid mesons and exotic states of mesons through analyzing data from the GlueX experiment at Jefferson National Laboratory.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 
 
