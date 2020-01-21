@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -38,15 +38,35 @@ Positions Held
   * Tutoring & College Success, Academic Success & Access Programs
   * Supervisor: Dr. Ali Bretthauer
 
-
-
 Research experience
 ------
-* 2015-2017: Undergraduate Research Assistant
-  * University of Idaho
-  ** Learning about chiral effective field theory
-  ** Supervisor: Dr. Ruprecht Machleidt
+* 2019-2020: Graduate Research Assistant
+  * Carnegie Mellon University
+  * Searching for hybrid and exotic mesons in data from the GlueX experiment
+  * Supervisor: Dr. Curtis Meyer
 
+* 2017: Undergraduate Research Assistant
+  * University of Idaho
+  * Measuring the magnetic interactions of a superconductor and a permanent magnet
+  * Using superconductors for a contact-free flywheel energy storage system
+  * Supervisor: Dr. Christine Berven
+
+* 2016-2017: Undergraduate Research Assistant
+  * University of Idaho
+  * Preparing grant proposal, compiling literature review, and presenting research results at APS DNP 2016 Fall Meeting
+  * Calculating boundaries for the masses and radii of neutron stars based on predictions from chiral effective field theory
+  * Supervisor: Dr. Francesca Sammarruca
+
+* 2015: Undergraduate Research Assistant
+  * University of Idaho
+  * Improving nanospring production methods
+  * Performing spectroscopy of semiconductor samples in a high-vacuum chamber
+  * Supervisor: Dr. David N. McIlroy
+  
+* 2015: Undergraduate Research Assistant
+  * University of Idaho
+  * Studying chiral effective field theory
+  * Supervisor: Dr. Ruprecht Machleidt
 
   
 Skills
