@@ -72,7 +72,6 @@ Skills
 ------
 * programming languages: C++, Fortran
 * tools: LaTeX, MATLAB
-* tutoring and teaching experience in physics
   
 Teaching
 ------
