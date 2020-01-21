@@ -11,14 +11,43 @@ redirect_from:
 
 Education
 ------
-* B.S. in Physics and Mathematics, University of Idaho, 2017
-* Ph.D in Physics, Carnegie Mellon University, don't ask me when
+* Carnegie Mellon University, Pittsburgh, PA
+  * Graduate student in Physics Ph.D. program, since 2019
+* University of Idaho, Moscow, ID
+  * Bachelor of Science in Physics and Mathematics, 2017
+
+Positions Held
+------
+* 2020: Graduate Research Assistant
+  * Carnegie Mellon University
+  * GlueX Experiment
+  * Advisor: Dr. Curtis Meyer
+  
+* 2019: Graduate Teaching Assistant
+  * Carnegie Mellon University
+  * Physics 1 for Engineers
+  * Supervisor: Dr. David Anderson
+
+* 2015-2016: Mathematics Specialist Tutor
+  * University of Idaho
+  * Student Support Services, Academic Success & Access Programs
+  * Supervisor: Dr. Cori Planagan
+
+* 2015-2016: Peer Tutor
+  * University of Idaho
+  * Tutoring & College Success, Academic Success & Access Programs
+  * Supervisor: Dr. Ali Bretthauer
+
+
 
 Research experience
 ------
-* Spring through Fall 2015: University of Idaho
-  * Learning about chiral effective field theory
-  * Supervisor: Dr. Ruprecht Machleidt
+* 2015-2017: Undergraduate Research Assistant
+  * University of Idaho
+  ** Learning about chiral effective field theory
+  ** Supervisor: Dr. Ruprecht Machleidt
+
+
   
 Skills
 ------
