@@ -67,17 +67,21 @@ Research experience
   * University of Idaho
   * Studying chiral effective field theory
   * Supervisor: Dr. Ruprecht Machleidt
-
   
 Skills
 ------
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* programming languages: C++, Fortran
+* tools: LaTeX, MATLAB
+* tutoring and teaching experience in physics
   
 Teaching
 ------
 * Fall 2019: TA for PHYS 33-141 with Dr. David Anderson
+
+Honors and Awards
+------
+* University of Idaho's College of Science Dean's List, 2014-2015
+* Santa Rosa Junior College's Dean's Highest Honors, 2013
+* Hill Undergraduate Research Fellowship, College of Science, University of Idaho, 2016-2017
+  * Project title: Predictions for the properties of neutron stars in the high-precision era
+
