@@ -14,7 +14,7 @@ Education
 * B.S. in Physics and Mathematics, University of Idaho, 2017
 * Ph.D in Physics, Carnegie Mellon University, don't ask me when
 
-Research experience #include other work experience?
+Research experience
 ======
 * Spring through Fall 2015: University of Idaho
   * Learning about chiral effective field theory
@@ -31,11 +31,4 @@ Skills
   
 Teaching
 ======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
 * Fall 2019: TA for PHYS 33-141 with Dr. David Anderson
-
-
-#Service and leadership
-#======
